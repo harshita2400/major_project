@@ -1,0 +1,52 @@
+caption,train_count,validation_count,test_count
+a image of Maize healthy leaves with leaves appearing normal and healthy,1000,803,803
+a image of Tomato leaves diseased by Septoria leaf spot with symptoms of Spots are circular with dark brown margins and tan to gray centers with small black fruiting structures,1000,489,489
+a image of Coffee healthy leaves with leaves appearing normal and healthy,1000,1993,1993
+"a image of Maize leaves diseased by Rust with symptoms of rust-colored to dark brown elongated pustules on both leaf surfaces, containing cinnamon brown urediniospores, with leaves potentially showing chlorosis and death under severe infection.",1000,274,274
+"a image of Peach leaves diseased by Bacterial spot with symptoms of pale-green spots turning light brown with a yellowish halo. Spots may merge, darken, dry out, and create a shot-hole effect.",1000,241,241
+"a image of Coffee leaves diseased by Cerscospora with symptoms of brown eye-spots surrounded by yellow halos and cherries with brown, sunken, oval blotches with purplish halos",1000,807,806
+"a image of Maize leaves diseased by Northern Leaf Blight with symptoms of canoe-shaped lesions with gray-green margins that turn tan with dark fungal sporulation, starting on lower leaves and spreading upwards",1000,348,348
+a image of Tomato healthy leaves with leaves appearing normal and healthy,1000,222,222
+"a image of Tomato leaves diseased by Early blight with symptoms of small dark spots, round brown leaf spots with target-like concentric rings, yellowing tissue",1000,249,249
+"a image of Cassava leaves diseased by bacterial blight with symptoms of blight, wilting, dieback, and vascular necrosis",1000,274,274
+"a image of Orange leaves diseased by Haunglongbing (Citrus greening) with symptoms of discolored leaves,yellow coloration,a blotchy-mottle",1000,578,578
+a image of Soybean healthy leaves with leaves appearing normal and healthy,1000,541,541
+"a image of Maize leaves diseased by Maize Lethal Necrosis with symptoms of long yellow stripes, yellowing and drying from the edges toward the midrib, and eventual leaf death. The disease leads to dwarfing, premature aging, and scattered dead plants in the field",1000,418,418
+"a image of Maize leaves diseased by Cercospora leaf spot Gray leaf spot with symptoms of small necrotic spots with halos expanding into rectangular gray to brown lesions, typically 1/8 inch wide and 2 to 3 inches long, with distinct parallel edges limited by veins",1000,251,251
+"a image of Tomato leaves diseased by Yellow Leaf Curl Virus with symptoms of leaf curl, yellowing and stunting",1000,624,624
+"a image of Coffee leaves diseased by Rust with symptoms of irregular yellow to orange powdery lesions on the lower surfaces, with spots merging into larger brown lesions, leading to drying, defoliation, and bare branches",1000,875,875
+"a image of Maize leaves diseased by Maize Streak Virus with symptoms of pale circular spots progressing to narrow, broken chlorotic stripes along secondary and tertiary veins, with severely affected leaves displaying white to yellow lesions",1000,758,758
+"a image of Coffee leaves diseased by Phoma with symptoms of dark-colored, zoned patches starting at the edges, with small black pycnidia on the lesions",1000,690,690
+a image of Coffee leaves diseased by Miner with symptoms of Transparent areas in the leaf and larvae maybe present on the underside of the coffee leaf,1000,1783,1783
+"a image of Tomato leaves diseased by Bacterial spot with symptoms of small spots, water-soaked circular areas",1000,234,234
+"a image of Tomato leaves diseased by Late blight with symptoms of irregularly shaped, water-soaked lesions",990,212,212
+"a image of Squash leaves diseased by Powdery mildew with symptoms of light roughly-circular, powdery looking patches",962,206,206
+a image of Grape leaves diseased by Black rot with symptoms of showing reddish-brown spots that merge into irregular blotches with tannish brown centers and black margins,898,193,192
+a image of Sugarcane leaves diseased by Brown Spot with symptoms of red-brown oval shaped lesions with yellow halo,843,181,181
+"a image of Cashew leaves diseased by red rust with symptoms of circular rust-colored to burnt-orange or brown spots on the adaxial part of the leaves, slightly raised, filamentous, and fuzzy in texture.",823,177,177
+"a image of Tomato leaves diseased by Two‑spotted spider mites with symptoms of blotched with pale yellow, reddish brown spots ranging from small to large areas",821,176,176
+"a image of Cashew leaves diseased by Anthracnose with symptoms of dark, sunken lesions and yellow to brown spots",819,175,176
+a image of Apple healthy leaves with leaves appearing normal and healthy,819,175,175
+a image of Pepper healthy leaves with leaves appearing normal and healthy,753,162,162
+"a image of Cassava leaves diseased by brown spot with symptoms of circular to angular brown spots, dark borders, yellow margins, and grey centers with black necrotic lines on the underside.",725,156,155
+"a image of Tomato leaves diseased by Target Spot with symptoms of small necrotic lesions with light brown centers and dark margins, becoming circular with gray to pale brown centers and darker concentric circles",688,147,147
+a image of Grape leaves diseased by Esca (Black Measles) with symptoms of irregular chlorotic areas that dry out completely,678,145,145
+"a image of Cashew leaves diseased by leaf miner with symptoms of tortuous markings on the upper surface, blistered patches of greyish white color, and distortion, browning, and curling of the leaves",674,145,145
+a image of Grape healthy leaves with leaves appearing normal and healthy,651,139,140
+"a image of Cassava leaves diseased by mosaic virus with symptoms of  chlorotic mosaic of the leaves, leaf distortion, and stunted growth",590,127,126
+a image of Cassava healthy leaves with leaves appearing normal and healthy,585,125,125
+"a image of Sugarcane leaves diseased by Yellow Leaf with symptoms of yellowing midribs, adjacent laminar yellowing, and leaf drying along the midrib",585,125,125
+"a image of Potato leaves diseased by Early blight with symptoms of small, dark, papery flecks growing into brown-black, circular-to-oval areas with angular borders",547,117,117
+"a image of Strawberry leaves diseased by Leaf scorch with symptoms of irregular dark purple spots that enlarge and resemble drops of tar,or brown, dry up, curl, and look scorched",543,117,116
+"a image of Potato leaves diseased by Late blight with symptoms of small, irregular green spots with pale green to yellow rings, growing across veins",541,116,116
+"a image of Grape leaves diseased by Leaf blight (Isariopsis Leaf Spot) with symptoms of scattered, somewhat angular, purple-brown spots",527,113,113
+"a image of Cherry leaves diseased by Powdery mildew with symptoms of light roughly-circular, powdery looking patches",515,111,110
+a image of Cashew healthy leaves with leaves appearing normal and healthy,511,110,110
+"a image of Tomato leaves diseased by Leaf Mold with symptoms of pale greenish-yellow spots on upper sides, olive-green to brown mold on lower surfaces, and withered leaves",511,109,110
+a image of Tea healthy leaves with leaves appearing normal and healthy,502,107,107
+"a image of Cassava leaves diseased by green mite with symptoms of yellowing, mottling, death and leaf fall. Stems show a 'candle stick' effect with the loss of terminal shoots.",497,106,107
+"a image of Pepper leaves diseased by Bacterial spot with symptoms of water-soaked lesions,dark purple-brown spots with light brown centers",488,104,105
+a image of Cherry healthy leaves with leaves appearing normal and healthy,418,89,90
+a image of Grape leaves diseased by Brown Spot with symptoms of ,383,82,82
+"a image of Tomato leaves diseased by Verticillium wilt with symptoms of yellowing lower leaves, v-shaped lesions, brown necrotic tissue, vascular streaking",378,81,81
+"a image of Apple leaves diseased by Scab with symptoms of olive-green to dark brown spots on leaves, leading to yellowing",351,75,75

@@ -1,0 +1,24 @@
+{
+  "input_files": [
+    "train-00000-of-00007.parquet",
+    "train-00001-of-00007.parquet",
+    "train-00002-of-00007.parquet",
+    "train-00003-of-00007.parquet",
+    "train-00004-of-00007.parquet",
+    "train-00005-of-00007.parquet",
+    "train-00006-of-00007.parquet"
+  ],
+  "original_rows": 121337,
+  "rows_after_metadata_filtering": 111028,
+  "classes_retained": 51,
+  "minimum_class_samples": 500,
+  "maximum_training_samples_per_class": 1000,
+  "random_seed": 42,
+  "batch_size": 128,
+  "rows_written": {
+    "train_balanced": 39616,
+    "validation": 16655,
+    "test": 16655
+  },
+  "output_directory": "E:\\major\\data\\parquet\\preprocessed"
+}
